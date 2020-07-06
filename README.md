@@ -30,7 +30,7 @@ This data is trained on several models :
 * k nearest neighbour 
 * Logistic regression
 
-### EVALUATION METRIC
+### EVALUATION METRIC 
 => As this data set contains very few exaples of class 1 (around 500) it is not a good idea to use accuracy as evaluation metric.
 
 => It is very important to detect the fraud transaction so the there are 2 evaluation matrics used 
