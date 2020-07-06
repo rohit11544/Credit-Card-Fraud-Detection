@@ -47,6 +47,6 @@ This data is trained on several models :
 | k nearest neighbour |  0.69   | 99.95%   |
 | Logistic regression |  0.85   |  97.31%  |
 
-### BEST MODEL
+### BEST MODEL 
 
 # RandomForest WITH 82% RECALL AND 98.45% ACCURACY
