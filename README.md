@@ -20,7 +20,7 @@ There are too many features so to prevent from overfitting unnecessary features 
 -> The features V1, V3, V5, V6, V7, V9, V10, V12, V13, V14, V15, V16, V17, V18, V23, V24 and Time are not correlated to the Class.
 
 #### SPLITTING DATA
-As they are around 290,000 the data set was splitted into 90% train 10% test sets.
+As they are around 290,000 examples, the data set was splitted into 90% train 10% test sets.
 
 ### TRANING
 This data is trained on several models :  
