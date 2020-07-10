@@ -12,7 +12,7 @@
 * According to the organization restrictions the name of the features are kept confidential.
 
 ### CLEANING DATA
-there are not null value in the data set to fill
+there are no null value in the data set to fill
 
 ### FEATURE ANALYSIS
 There are too many features so to prevent from overfitting unnecessary features are dropped. By plotting the heatmap and FacetGrid plots , the features that are less correlated to the class are dropped.
