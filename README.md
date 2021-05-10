@@ -44,7 +44,7 @@ This data is trained on several models :
 | XGBoost      | 0.69           |  99.95%  |
 | SVM          | 0.64           |  99.94%  |
 | RandomForest | 0.82           | 98.45%   |
-| k nearest neighbour |  0.69   | 99.95%   |
+| k nearest neighbor  |  0.69   | 99.95%   |
 | Logistic regression |  0.85   |  97.31%  |
 
 ### BEST MODEL 
